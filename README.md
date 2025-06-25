@@ -16,6 +16,7 @@ Step 3: Create startup.sh file:
   cd to directory you would like to create the file
   
    ```$ cd /home/john/Projects/```
+   
    /home/john/Projects/ is the directory I used. Replace this with the directory you want to use.
     
   create shell script file
