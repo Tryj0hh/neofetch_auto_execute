@@ -41,7 +41,7 @@ step 6: Add line to .bashrc file
 
   ```$ echo "/home/john/Projects/startup.sh" >> ~/.bashrc``` 
   
-  (/home/john/Projects/ is the directory I used. Replace this with the directory you want to use.)
+  /home/john/Projects/ is the directory I used. Replace this with the directory you want to use.
   
 
 Step 7: Open a bash terminal to ensure it is working correctly
